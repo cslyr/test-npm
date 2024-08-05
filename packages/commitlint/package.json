@@ -1,5 +1,5 @@
 {
-  "name": "commitlint",
+  "name": "commitlint-cs",
   "version": "1.1.2",
   "description": "git 提交代码检验",
   "author": "cs",
@@ -13,8 +13,8 @@
   "bugs": {
     "url": "https://github.com/cslyr/Project-engineering/issues"
   },
-  "gitHead": "c5b812fde4302f152a1ea5a1f631fcfad3d8f301",
+  "gitHead": "7838ea8fb95fc073dc0d531724430b881d192ad1",
   "dependencies": {
-    "commitlint": "file:"
+    "commitlint": "^1.1.2"
   }
 }
