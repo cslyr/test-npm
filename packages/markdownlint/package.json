@@ -1,6 +1,6 @@
 {
   "name": "code-commitlint-tools",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "main": "index.json",
   "description": "Git代码提交规范",
   "keywords": [
@@ -20,7 +20,7 @@
     "url": "https://github.com/cslyr/Project-engineering/issues"
   },
   "dependencies": {
-    "code-commitlint-tools": "^1.1.0",
+    "code-commitlint-tools": "^1.1.1",
     "conventional-changelog-conventionalcommits": "^4.5.0"
   },
   "gitHead": "ec43fceab1882fce73a3ffd6c343f3f8a1b14940"
