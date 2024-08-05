@@ -13,7 +13,5 @@
   "bugs": {
     "url": "https://github.com/cslyr/Project-engineering/issues"
   },
-  "dependencies": {
-    "commitlint": "file:"
-  }
+  "gitHead": "ec43fceab1882fce73a3ffd6c343f3f8a1b14940"
 }
