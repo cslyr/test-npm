@@ -1,6 +1,6 @@
 {
   "name": "code-commitlint-tools",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "main": "index.json",
   "description": "Git代码提交规范",
   "keywords": [

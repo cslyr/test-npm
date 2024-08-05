@@ -1,6 +1,6 @@
 {
   "name": "commitlint",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "git 提交代码检验",
   "author": "cs",
   "homepage": "https://github.com/cslyr/Project-engineering#readme",
