@@ -11,10 +11,6 @@
 
 ## 使用
 
-在 `.markdownlint.json` 中继承本包:
-
-```json
-{
-	"extends": "encode-fe-markdownlint-config"
-}
+```bash
+markdownlint README.md
 ```
