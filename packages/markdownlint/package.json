@@ -20,8 +20,8 @@
     "url": "https://github.com/cslyr/Project-engineering/issues"
   },
   "dependencies": {
-    "code-commitlint-tools": "^1.1.1",
+    "code-commitlint-tools": "file:",
     "conventional-changelog-conventionalcommits": "^4.5.0"
   },
-  "gitHead": "ec43fceab1882fce73a3ffd6c343f3f8a1b14940"
+  "gitHead": "c5b812fde4302f152a1ea5a1f631fcfad3d8f301"
 }

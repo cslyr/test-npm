@@ -1,4 +1,4 @@
-# encode-fe-markdownlint-config
+# markdownlint
 
 > markdownlint 使用规范
 
