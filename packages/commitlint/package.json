@@ -1,0 +1,16 @@
+{
+  "name": "commitlint",
+  "version": "1.0.0",
+  "description": "git 提交代码检验",
+  "author": "cs",
+  "homepage": "https://github.com/cslyr/Project-engineering#readme",
+  "license": "ISC",
+  "main": "index.js",
+ "repository": {
+    "type": "git",
+    "url": "https://github.com/cslyr/Project-engineering.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cslyr/Project-engineering/issues"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "code-commitlint-tools",
+  "version": "1.0.0",
+  "main": "index.json",
+  "description": "Git代码提交规范",
+  "keywords": [
+    "cs",
+    "code lint",
+    "commit",
+    "lint"
+  ],
+  "author": "cs",
+  "homepage": "https://github.com/cslyr/Project-engineering#readme",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cslyr/Project-engineering.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cslyr/Project-engineering/issues"
+  },
+  "dependencies": {
+    "code-commitlint-tools": "file:",
+    "conventional-changelog-conventionalcommits": "^4.5.0",
+    "encode-fe-commitlint-config111": "file:"
+  }
+}
