@@ -1,5 +1,5 @@
 {
-  "name": "code-commitlint-tools",
+  "name": "code-markdownlint-tools-cs",
   "version": "1.1.3",
   "main": "index.json",
   "description": "Git代码提交规范",
